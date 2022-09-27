@@ -16,7 +16,7 @@
 </head>
 <body>
     <div >
-        <form action="">
+        <form action="?p=cadastro" method="post">
             <fieldset>
                 <legend><b>Fórmulário de Clientes</b></legend>
                 <br>
